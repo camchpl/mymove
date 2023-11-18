@@ -57,8 +57,7 @@ export default function Plans() {
               Get free access
             </h2>
             <p className='max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-zinc-400'>
-              Upload a PDF of your current workout plan and get a month of free
-              access.
+              Upload your disability document and get free access.
             </p>
             <div className='flex items-center space-x-4'>
               <OutlinedInput
