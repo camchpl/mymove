@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HACKATHON Girls in Tech- Inclusive Fitness App
 
-## Getting Started
+![Modal](public/hackathon.png)
 
-First, run the development server:
+## MyMove - No Limits
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+MyMOVE aims to disrupt the digital fitness industry by leveraging technology to create inclusive and accessible fitness environments that cater to diverse needs and backgrounds.
+The goal is to ensure that everyone, regardless of size, gender, ability status, shape, age, or ethnicity, feels seen, empowered, and celebrated during their fitness journey.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Personalized Inclusivity Profiles
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Adaptive Workout Programs
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Diverse Instructor Representation
 
-## Learn More
+These 3 points are the inspiration for MyMove.
+So lets get moving!
 
-To learn more about Next.js, take a look at the following resources:
+## Masterminds!
+In Alphabetical order:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Alice Mendeleyeva
+ [LinkedIn](https://www.linkedin.com/in/alice-mendeleyeva/)
+ 
+### Camille Chapleau
+[LinkedIn](https://www.linkedin.com/in/camille-chapleau/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Elina Usmanova
+[LinkedIn](https://www.linkedin.com/in/elina-usmanova/)
 
-## Deploy on Vercel
+### Heinke Pietsch
+[LinkedIn](https://www.linkedin.com/in/heinke-pietsch-146b57159/?originalSubdomain=de)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Hevidar Dagili
+[LinkedIn](https://www.linkedin.com/in/adessihevi/?originalSubdomain=de)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Franziska Seitz
+[LinkedIn](https://www.linkedin.com/in/franziska-seitz-001b92225/)
