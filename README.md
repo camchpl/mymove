@@ -2,7 +2,12 @@
 
 ![Modal](public/hackathon.png)
 
-## MyMove - No Limits
+## Task
+Everyone should be able to enjoy the power of movement in environments that feel welcoming and comfortable – regardless of your size, gender, ability status, shape, age, or ethnicity. Unfortunately, this does not reflect the fitness experience of many.
+
+As the digital fitness industry grows, how can we use technology to create inclusive and accessible fitness environments where everyone feels seen, empowered and celebrated? 
+
+## Solution: MyMove - No Limits
 
 MyMOVE aims to disrupt the digital fitness industry by leveraging technology to create inclusive and accessible fitness environments that cater to diverse needs and backgrounds.
 The goal is to ensure that everyone, regardless of size, gender, ability status, shape, age, or ethnicity, feels seen, empowered, and celebrated during their fitness journey.
